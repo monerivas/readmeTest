@@ -5,6 +5,7 @@ PLAN for the Trial Project “TaylorSwiftList”
 I divided the work that needs to be done in two phases: Functionality and Layout.
 
 Functionality phase.
+
 | TASK                                                   |TIME ESTIMATE TO BE DONE        
 | -------------------------------------------------------|:----------------------:| 
 | Work environment ready and planification               |  20 min                |
